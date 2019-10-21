@@ -5,3 +5,5 @@ Testing result:
 - Bug fix done by dev team
 - Code success push to maste
 - incident fix done
+- Code success push to master
+- intiallization done

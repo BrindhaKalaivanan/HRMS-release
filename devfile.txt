@@ -16,6 +16,8 @@ begin-procedure call_jobdata
  go main-program ##Bug Fix
  #incident Fix
  j = 0
+ # intiallization
+ i = 0
 end-procedure
 
 ##Bug Fix
