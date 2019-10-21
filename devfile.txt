@@ -2,6 +2,7 @@ datetime.src
 
 begin-program 
  do main_progam
+ do call_jobdata
 end-program
 
 begin-procedure main-program
@@ -9,3 +10,7 @@ begin-sql
  select count(*) from ps_installation
 end-sql
 end-procedure 
+
+begin-procedure call_jobdata
+ select count(*) from ps_job
+end-procedure
