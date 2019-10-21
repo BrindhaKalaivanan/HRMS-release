@@ -14,6 +14,8 @@ end-procedure
 begin-procedure call_jobdata
  select count(*) from ps_job
  go main-program ##Bug Fix
+ #incident Fix
+ j = 0
 end-procedure
 
 ##Bug Fix
