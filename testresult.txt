@@ -4,3 +4,4 @@ Testing result:
 - New jobdata changes added testing inprogress
 - Bug fix done by dev team
 - Code success push to master
+- intiallization done
