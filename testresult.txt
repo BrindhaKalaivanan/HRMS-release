@@ -2,3 +2,4 @@
 Testing result:
 - Requires to implement few more senarios
 - New jobdata changes added testing inprogress
+- Bug fix done by dev team
