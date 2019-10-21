@@ -1,0 +1,11 @@
+datetime.src
+
+begin-program 
+ do main_progam
+end-program
+
+begin-procedure main-program
+begin-sql
+ select count(*) from ps_installation
+end-sql
+end-procedure 
